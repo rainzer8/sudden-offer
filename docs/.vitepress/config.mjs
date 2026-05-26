@@ -196,7 +196,7 @@ const sidebar = {
 export default defineConfig({
   lang: 'zh-CN',
   title: '速通offer',
-  description: '图解计算机基础，速通技术面试。跟着小速拿下心仪offer！',
+  description: '跟着速通，面试通关就这么简单',
   
   head: [
     ['link', { rel: 'icon', href: '/icon.webp' }],
