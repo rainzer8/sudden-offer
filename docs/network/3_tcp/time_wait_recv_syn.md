@@ -1,6 +1,6 @@
 # 4.11 在 TIME_WAIT 状态的 TCP 连接，收到 SYN 后会发生什么？
 
-大家好，我是小林。
+大家好，我是晓峰。
 
 周末跟朋友讨论了一些 TCP 的问题，在查阅《Linux 服务器高性能编程》这本书的时候，发现书上写了这么一句话：
 
@@ -264,6 +264,3 @@ TIME_WAIT 状态之所以要持续 2MSL 时间，主要有两个目的：
 
 ---
 
-最新的图解文章都在公众号首发，别忘记关注哦！！如果你想加入百人技术交流群，扫码下方二维码回复「加群」。
-
-![img](https://cdn.xiaolincoding.com/gh/xiaolincoder/ImageHost3@main/%E5%85%B6%E4%BB%96/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BB%8B%E7%BB%8D.png)

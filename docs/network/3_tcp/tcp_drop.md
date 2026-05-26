@@ -4,7 +4,7 @@
 >
 >原文地址：[用了 TCP 协议，数据一定不会丢吗？](https://mp.weixin.qq.com/s/XNJoaVnYT1SxHsdNWeAaUw)
 
-大家后，我是小林。
+大家后，我是晓峰。
 
 问大家一句：TCP 是一个可靠的传输协议，那它一定能保证数据不丢失吗？
 
@@ -372,6 +372,5 @@ TCP 任务是结束了，但聊天软件的任务没结束。
 
 ----
 
-***哈喽，我是小林，就爱图解计算机基础，如果觉得文章对你有帮助，欢迎微信搜索「小林 coding」***
+希望这篇文章对你有帮助！
 
-![img](https://cdn.xiaolincoding.com/gh/xiaolincoder/ImageHost3@main/%E5%85%B6%E4%BB%96/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BB%8B%E7%BB%8D.png)

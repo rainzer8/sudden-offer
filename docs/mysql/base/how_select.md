@@ -1,6 +1,6 @@
 # 执行一条 select 语句，期间发生了什么？
 
-大家好，我是小林。
+大家好，我是晓峰。
 
 学习 SQL 的时候，大家肯定第一个先学到的就是 select 查询语句了，比如下面这句查询语句：
 
@@ -11,7 +11,7 @@ select * from product where id = 1;
 
 但是有没有想过，**MySQL 执行一条 select 查询语句，在 MySQL 中期间发生了什么？**
 
-带着这个问题，我们可以很好的了解 MySQL 内部的架构，所以这次小林就带大家拆解一下 MySQL 内部的结构，看看内部里的每一个“零件”具体是负责做什么的。
+带着这个问题，我们可以很好的了解 MySQL 内部的架构，所以这次晓峰就带大家拆解一下 MySQL 内部的结构，看看内部里的每一个“零件”具体是负责做什么的。
 
 ## MySQL 执行流程是怎样的？
 
@@ -352,6 +352,3 @@ select * from t_user  where age > 20 and reward = 100000;
 
 ---
 
-最新的图解文章都在公众号首发，别忘记关注哦！！如果你想加入百人技术交流群，扫码下方二维码回复「加群」。
-
-![img](https://cdn.xiaolincoding.com/gh/xiaolincoder/ImageHost3@main/%E5%85%B6%E4%BB%96/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BB%8B%E7%BB%8D.png)

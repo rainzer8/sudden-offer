@@ -1,6 +1,6 @@
 # MySQL 死锁了，怎么办？
 
-大家好，我是小林。
+大家好，我是晓峰。
 
 说个很早之前自己遇到过数据库死锁问题。
 
@@ -369,6 +369,3 @@ t_order 表中的 order_no 字段为唯一二级索引，并且已经存在 orde
 
 ----
 
-最新的图解文章都在公众号首发，别忘记关注哦！！如果你想加入百人技术交流群，扫码下方二维码回复「加群」。
-
-![img](https://cdn.xiaolincoding.com/gh/xiaolincoder/ImageHost3@main/%E5%85%B6%E4%BB%96/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BB%8B%E7%BB%8D.png)

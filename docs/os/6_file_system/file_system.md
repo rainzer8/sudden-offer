@@ -494,6 +494,6 @@ Linux 系统的 ext 文件系统就是采用了哈希表，来保存目录的内
 
 ## 关注作者
 
-***哈喽，我是小林，就爱图解计算机基础，如果觉得文章对你有帮助，欢迎微信搜索「小林 coding」，关注后，回复「网络」再送你图解网络 PDF***
+希望这篇文章对你有帮助！
 
 ![](https://cdn.xiaolincoding.com/gh/xiaolincoder/ImageHost3@main/其他/公众号介绍.png)

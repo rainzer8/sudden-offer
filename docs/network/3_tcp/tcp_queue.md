@@ -439,7 +439,7 @@ TCP 半连接队列的大小对于不同的 Linux 内核版本会有不同的计
 网上搜索出来的信息，并不一定针对你的系统，通过自我分析一波，你会更了解你当前使用的 Linux 内核版本！
 
 
-**小林是专为大家图解的工具人，Goodbye，我们下次见！**
+**晓峰是专为大家图解的工具人，Goodbye，我们下次见！**
 
 ![](https://cdn.xiaolincoding.com/gh/xiaolincoder/ImageHost2/%E5%85%B6%E4%BB%96/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BB%8B%E7%BB%8D.png)
 

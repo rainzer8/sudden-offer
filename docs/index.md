@@ -2,12 +2,12 @@
 layout: home
 
 hero:
-  name: "小林coding"
+  name: "晓峰coding"
   text: "从图解计算机到面试全攻略"
   tagline: 图解计算机网络、操作系统、MySQL、Redis，覆盖后端技术面试，让天下没有难懂的八股文！
   image:
     src: /logo.png
-    alt: 小林coding
+    alt: 晓峰coding
   actions:
     - theme: brand
       text: 开始学习
@@ -61,7 +61,7 @@ features:
 
 ## 💭 关于作者
 
-大家好，我是小林 🤗，是图解系列的作者。
+大家好，我是晓峰 🤗，是图解系列的作者。
 
 本站所有文章都是我的原创文章，曾经我也苦恼于那些晦涩难弄的计算机基础知识。但在我啃了一本又一本的书，看了一个又一个的视频后，终于对这些"家伙"有了认识。
 

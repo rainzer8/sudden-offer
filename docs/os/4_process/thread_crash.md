@@ -6,7 +6,7 @@
 >
 > 原文地址：[美团一面：线程崩溃了，进程也会崩溃吗？](https://mp.weixin.qq.com/s/easnVQ75Rq-C07W4YWeclQ)
 
-大家好，我是小林。
+大家好，我是晓峰。
 
 之前分享这篇文章的时候：[进程和线程基础知识全家桶，30 张图一套带走](https://xiaolincoding.com/os/4_process/process_base.html)，提到说线程的一个缺点：
 
@@ -267,6 +267,5 @@ JVM_handle_linux_signal(int sig,
 
 ---
 
-***哈喽，我是小林，就爱图解计算机基础，如果觉得文章对你有帮助，欢迎微信搜索「小林 coding」，关注后，回复「网络」再送你图解网络 PDF***
+希望这篇文章对你有帮助！
 
-![](https://cdn.xiaolincoding.com/gh/xiaolincoder/ImageHost3@main/%E5%85%B6%E4%BB%96/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BB%8B%E7%BB%8D.png)

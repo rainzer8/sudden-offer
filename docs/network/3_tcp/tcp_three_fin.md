@@ -1,6 +1,6 @@
 # 4.22 TCP 四次挥手，可以变成三次吗？
 
-大家好，我是小林。
+大家好，我是晓峰。
 
 有位读者面美团时，被问到：**TCP 四次挥手中，能不能把第二次的 ACK 报文，放到第三次 FIN 报文一起发送？**
 
@@ -351,7 +351,6 @@ tcpdump -i lo tcp and port 8888 -s0 -w /home/tcp_close.pcap
 
 ----
 
-***哈喽，我是小林，就爱图解计算机基础，如果觉得文章对你有帮助，欢迎微信搜索「小林 coding」***
+希望这篇文章对你有帮助！
 
-![img](https://cdn.xiaolincoding.com/gh/xiaolincoder/ImageHost3@main/%E5%85%B6%E4%BB%96/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BB%8B%E7%BB%8D.png)
 
