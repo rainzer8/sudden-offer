@@ -138,6 +138,6 @@ Linux 2.6+ 使用 1000 毫秒的 HZ，因此`TCP_RTO_MIN`约为 200 毫秒，`TC
 
 最后说句，TCP 牛逼，啥异常都考虑到了。
 
-**晓峰是专为大家图解的工具人，Goodbye，我们下次见！**
+**我是专为大家图解的工具人，Goodbye，我们下次见！**
 
 ![](https://cdn.xiaolincoding.com/gh/xiaolincoder/ImageHost2/%E5%85%B6%E4%BB%96/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BB%8B%E7%BB%8D.png)

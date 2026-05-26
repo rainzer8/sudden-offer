@@ -237,6 +237,6 @@ ping: sendto: No route to host
 
 ---
 
-希望这篇文章对你有帮助，我们下次见！
+
 
 ![img](https://cdn.xiaolincoding.com/gh/xiaolincoder/ImageHost2/%E5%85%B6%E4%BB%96/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BB%8B%E7%BB%8D.png)

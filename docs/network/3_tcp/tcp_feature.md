@@ -2,7 +2,7 @@
 
 TCP **巨复杂**，它为了保证可靠性，用了巨多的机制来保证，真是个「伟大」的协议，写着写着发现这水太深了。。。
 
-本文的全部图片都是晓峰绘画的，非常的辛苦且累，不废话了，直接进入正文，Go！
+本文的全部图片都是小速绘画的，非常的辛苦且累，不废话了，直接进入正文，Go！
 
 相信大家都知道 TCP 是一个可靠传输的协议，那它是如何保证可靠的呢？
 
@@ -682,7 +682,7 @@ https://coolshell.cn/articles/11564.html
 
 但这还只是 TCP 冰山一脚，它的更深处就由你们自己去探索啦。
 
-**晓峰是专为大家图解的工具人，Goodbye，我们下次见！**
+**我是专为大家图解的工具人，Goodbye，我们下次见！**
 
 ![](https://cdn.xiaolincoding.com/gh/xiaolincoder/ImageHost2/%E5%85%B6%E4%BB%96/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BB%8B%E7%BB%8D.png?image_process=watermark,text_5YWs5LyX5Y-377ya5bCP5p6XY29kaW5n,type_ZnpsdHpoaw,x_10,y_10,g_se,size_20,color_0000CD,t_70,fill_0)
 

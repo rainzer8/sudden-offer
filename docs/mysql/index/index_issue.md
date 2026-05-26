@@ -2,7 +2,7 @@
 
 
 
-大家好，我是晓峰。
+大家好，我是小速。
 
 昨天发了一篇关于索引失效的文章：[谁还没碰过索引失效呢](http://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247503394&idx=1&sn=6e5b7b2c9bd9002a4b2dfa69273069b3&chksm=f98d8a88cefa039e726f1196ba14210ddbe49b5fcbb6da620778a7497fa25404433ef0b76268&scene=21#wechat_redirect)
 

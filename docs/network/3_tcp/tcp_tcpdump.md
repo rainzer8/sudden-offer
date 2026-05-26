@@ -726,5 +726,5 @@ tcp_retries1 和 tcp_retries2 都是在 TCP 三次握手之后的场景。
 
 ![](https://cdn.xiaolincoding.com/gh/xiaolincoder/ImageHost/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCP-Wireshark/62.png)
 
-**晓峰是专为大家图解的工具人，Goodbye，我们下次见！**
+**我是专为大家图解的工具人，Goodbye，我们下次见！**
 

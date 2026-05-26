@@ -1,6 +1,6 @@
 # 揭开 Buffer Pool  的面纱
 
-大家好，我是晓峰。
+大家好，我是小速。
 
 今天就聊 MySQL 的 Buffer Pool，发车！
 

@@ -6,7 +6,7 @@
 >
 > 原文地址：[美团一面：线程崩溃了，进程也会崩溃吗？](https://mp.weixin.qq.com/s/easnVQ75Rq-C07W4YWeclQ)
 
-大家好，我是晓峰。
+大家好，我是小速。
 
 之前分享这篇文章的时候：[进程和线程基础知识全家桶，30 张图一套带走](https://xiaolincoding.com/os/4_process/process_base.html)，提到说线程的一个缺点：
 

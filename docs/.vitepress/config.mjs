@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 
-// 侧边栏配置 - 完全匹配晓峰的站点结构
+// 侧边栏配置 - 完全匹配小速的站点结构
 const sidebar = {
   '/network/': [
     { text: '图解网络', items: [
@@ -195,8 +195,8 @@ const sidebar = {
 
 export default defineConfig({
   lang: 'zh-CN',
-  title: '晓峰coding',
-  description: '图解计算机网络、操作系统、MySQL、Redis，覆盖后端技术面试，让天下没有难懂的八股文！',
+  title: '速通offer',
+  description: '图解计算机基础，速通技术面试。跟着小速拿下心仪offer！',
   
   head: [
     ['link', { rel: 'icon', href: '/icon.webp' }],
@@ -226,7 +226,7 @@ export default defineConfig({
 
     footer: {
       message: '基于 VitePress 构建',
-      copyright: 'Copyright © 2026 晓峰coding · 内容源自 CS-Base',
+      copyright: '© 2026 速通offer · 内容源自 CS-Base',
     },
 
     search: {

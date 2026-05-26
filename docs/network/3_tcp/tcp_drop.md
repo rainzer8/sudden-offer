@@ -4,7 +4,7 @@
 >
 >原文地址：[用了 TCP 协议，数据一定不会丢吗？](https://mp.weixin.qq.com/s/XNJoaVnYT1SxHsdNWeAaUw)
 
-大家后，我是晓峰。
+大家后，我是小速。
 
 问大家一句：TCP 是一个可靠的传输协议，那它一定能保证数据不丢失吗？
 

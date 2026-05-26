@@ -1,6 +1,6 @@
 # MySQL 日志：undo log、redo log、binlog 有什么用？
 
-大家好，我是晓峰。
+大家好，我是小速。
 
 从这篇「[执行一条 SQL 查询语句，期间发生了什么？](https://xiaolincoding.com/mysql/base/how_select.html)」中，我们知道了一条查询语句经历的过程，这属于「读」一条记录的过程，如下图：
 

@@ -1,6 +1,6 @@
 # 4.1 TCP 三次握手与四次挥手面试题
 
-大家好，我是晓峰。
+大家好，我是小速。
 
 **任 TCP 虐我千百遍，我仍待 TCP 如初恋。**
 
@@ -1165,6 +1165,6 @@ accept 系统调用并不参与 TCP 三次握手过程，它只是负责从 TCP 
 
 希望这篇能破除大家对 TCP 的大多数疑惑，有任何问题都可以在留言区和我交流。
 
-**晓峰是专为大家图解的工具人，Goodbye，我们下次见！**
+**我是专为大家图解的工具人，Goodbye，我们下次见！**
 
 ![](https://cdn.xiaolincoding.com/gh/xiaolincoder/ImageHost2/%E5%85%B6%E4%BB%96/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BB%8B%E7%BB%8D.png)

@@ -3,7 +3,7 @@
 > 来源：公众号@小白 debug
 > 原文地址：[阿里二面：没有 accept，能建立 TCP 连接吗？](https://mp.weixin.qq.com/s/oPX_JoZUaLn6sW54yppfvA)
 
-大家好，我是晓峰。
+大家好，我是小速。
 
 这次，我们来讨论一下，**没有 accept，能建立 TCP 连接吗？**
 

@@ -1,6 +1,6 @@
 # MySQL 可重复读隔离级别，完全解决幻读了吗？
 
-大家好，我是晓峰。
+大家好，我是小速。
 
 我在[上一篇文章](https://xiaolincoding.com/mysql/transaction/mvcc.html)提到，MySQL InnoDB 引擎的默认隔离级别虽然是「可重复读」，但是它很大程度上避免幻读现象（并不是完全解决了），解决的方案有两种：
 
@@ -114,7 +114,7 @@ Query OK, 0 rows affected (0.00 sec)
 
 ```sql
 # 事务 A
-mysql> update t_stu set name = '晓峰 coding' where id = 5;
+mysql> update t_stu set name = '速通offer' where id = 5;
 Query OK, 1 row affected (0.01 sec)
 Rows matched: 1  Changed: 1  Warnings: 0
 
@@ -122,7 +122,7 @@ mysql> select * from t_stu where id = 5;
 +----+--------------+------+
 | id | name         | age  |
 +----+--------------+------+
-|  5 | 晓峰coding   |   18 |
+|  5 | 速通offer   |   18 |
 +----+--------------+------+
 1 row in set (0.00 sec)
 ```
